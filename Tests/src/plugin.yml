@@ -1,0 +1,5 @@
+name: Test
+author: Torciv
+version: 1.0
+main: me.torciv.test.Main
+description: test plugin
